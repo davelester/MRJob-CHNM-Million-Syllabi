@@ -2,7 +2,7 @@
 
 **Description:**
 
-This repository contains a series of MapReduce jobs that run on a sample of 50,000 syllabi from CHNM's million syllabi database. MapReduce jobs are written in Python, using [MRJob](https://github.com/Yelp/mrjob).
+This repository contains a series of MapReduce jobs that run on a sample of 50,000 syllabi from [CHNM's million syllabi database](http://www.dancohen.org/2011/03/30/a-million-syllabi/). MapReduce jobs are written in Python, using [MRJob](https://github.com/Yelp/mrjob).
 
 
 **Contents:**
