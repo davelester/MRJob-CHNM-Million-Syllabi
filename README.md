@@ -10,10 +10,3 @@ This repository contains a series of MapReduce jobs that run on a sample of ~~50
 * /data/ - Includes syllabi_sample.txt, which is the first 100 records from the CHNM syllabi database.
 * average_words_per_syllabus.py - Calculate the average number of words per syllabus text.
 * count_syllabi.py - Count the number of syllabi in the dataset. This is the most-basic example of map reduce and using MRJob I could write.
-* count_unique_domains.py - 
-* syllabus_similarity_jaccard_index.py - 
-
-
-**Contribute:**
-
-There are 
