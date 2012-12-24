@@ -10,7 +10,7 @@ class AverageWordsPerSyllabus(MRJob):
 	""" retrieves a syllabus, and returns its length """
 	def get_syllabus_text_len(self, _, line):
 		syllabus = line.split('\t')
-		word_count = len(WORD_RE.findall(syllabus[3]))
+		word_count = len(WORD_RE.findall(syllabus[6]))
 		yield 'word_count', word_count
 		yield 'syllabus_count', 1
 
